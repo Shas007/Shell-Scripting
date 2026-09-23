@@ -8,3 +8,5 @@ echo "a is greater than b"
 fi
 if [ $a -lt $b ]
 then
+	echo "a is less than b"
+fi
